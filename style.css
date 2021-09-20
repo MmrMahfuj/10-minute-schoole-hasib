@@ -1,0 +1,76 @@
+.navi-style{
+    background-color: rgb(239, 239, 239);
+    border-radius: 10px;
+}
+/* my special btn of navigation bar */
+.nav-links {
+    color: black;
+    text-decoration: none;
+    padding: 5px 15px;
+    margin: 10px;
+}
+.nav-links:hover  {
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+
+  }
+.my-special-btn{
+    border: none;
+    padding: 6px 20px;
+    border-radius: 5px;
+    /* background-color: cyan; */
+
+}
+.my-special-btn:hover{
+    color: white;
+}
+/* style nav pic */
+.style-nav-pic{
+    width: 128px;
+    height: 2em;
+}
+
+/* log in button style */
+.log-in-btn{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 8px 17px;
+    border-radius: 5px;
+}
+.log-in-btn:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid red;
+}
+.header-container{
+    background: #f7f8fa;
+    border-radius: 1.5em;
+    margin: auto;
+    padding: 3em;
+}
+/* header card design */
+.header-card{
+    background-color: white;
+    margin: 10px;
+    padding: 21px;
+    border-radius: 12px;
+}
+.header-card:hover{
+    background-color: #3e3131;
+    color: white;
+};
+/* my custom button style */
+.my-custom-button{
+    /* background-color: green; */
+    color: green;
+}
+.my-special-btn2{
+    background-color: rgb(69,200,129);
+    border: 0;
+    color: white;
+    padding: 6px 30px;
+    border-radius: 4px;
+    text-align: center;
+}
